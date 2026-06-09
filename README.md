@@ -26,8 +26,8 @@ O experimento implementa uma análise comparativa entre duas abordagens probabil
 
 ## Estrutura do Repositório
 * Analise_Identidade_Sonora.ipynb: Jupyter Notebook contendo o pipeline completo de dados, treino, predição e geração das Matrizes de Confusão.
-* dataset_mata64.csv: Base de dados bruta original.
-* dataset_mata64_balanceado.csv: Base de dados tratada após aplicação do método de Undersampling.
+* alltracksdoubled.csv: Base de dados bruta original.
+* alltracksdoubled_balanceado.csv: Base de dados tratada após aplicação do método de Undersampling.
 
 ## Reproducibilidade
 Para replicar o experimento localmente ou no Google Colab:
