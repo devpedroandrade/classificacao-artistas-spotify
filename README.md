@@ -28,6 +28,7 @@ O experimento implementa uma análise comparativa entre duas abordagens probabil
 * Analise_Identidade_Sonora.ipynb: Jupyter Notebook contendo o pipeline completo de dados, treino, predição e geração das Matrizes de Confusão.
 * alltracksdoubled.csv: Base de dados bruta original.
 * alltracksdoubled_balanceado.csv: Base de dados tratada após aplicação do método de Undersampling.
+* dataset_sintetico_1000.csv: Base de dados bruta sintética.
 
 ## Reproducibilidade
 Para replicar o experimento localmente ou no Google Colab:
